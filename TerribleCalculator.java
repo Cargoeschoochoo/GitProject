@@ -6,7 +6,7 @@ public class TerribleCalculator {
 	public static void main(String[] args) {
 		Scanner scnr = new Scanner(System.in);
 		System.out.println("Welcome to Java Calculator!");
-		System.out.println("Please select an opperation (add, sub, mul, div)");
+		System.out.println("Please select an opperation (Add, Sub, Mul, Div)");
 		
 		String userInput;
 		int tempNum;
