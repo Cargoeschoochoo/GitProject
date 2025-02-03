@@ -57,7 +57,7 @@ public class TerribleCalculator {
 			System.out.println("Would you like to use integer division (Y/N)");
 			String userInput2;
 			userInput2 = scnr.nextLine();
-			if(userInput2.equals("Y")) {
+			if(userInput2.equals("y")) {
 				System.out.print("Enter integer 1: ");
 				tempNum = scnr.nextInt();
 				int1 = tempNum;
@@ -69,7 +69,7 @@ public class TerribleCalculator {
 				System.out.println("Difference is " + div);
 				System.out.println("Thank you for using Java Calculator!");
 			}
-			else if(userInput2.equals("N")) {
+			else if(userInput2.equals("n")) {
 				System.out.print("Enter integer 1: ");
 				tempNum = scnr.nextInt();
 				int1 = tempNum;
