@@ -23,7 +23,7 @@ public class TerribleCalculator {
 			int2 = tempNum;
 			int sum;
 			sum = int1 + int2;
-			System.out.println("Sum is " + sum);
+			System.out.println("Sum is " + sum + ".");
 			System.out.println("Thank you for using Java Calculator!");
 			break;
 			
